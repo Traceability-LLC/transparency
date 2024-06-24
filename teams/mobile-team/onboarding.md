@@ -7,7 +7,7 @@ Welcome to our team! We're glad you've joined us. Here's some information about 
 
 ![](./onboarding.png)
 
-Read about our team first of all: <https://app.gram.ax/transparency/teams/mobile-team/>
+Read about our team first of all: [Link](people.md)
 
 Then, please, join some chats and channels in Telegram:
 
