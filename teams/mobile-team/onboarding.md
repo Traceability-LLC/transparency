@@ -3,19 +3,25 @@ order: 2
 title: Onboarding
 ---
 
+## Intro
+
 Welcome to our team! We're glad you've joined us. Here's some information about our team and what we expect from you during your first few weeks at work.
 
 ![](./onboarding.png)
 
-Read about our team first of all: [Link](people.md)
+Read about our team first of all: [Link](./people.md)
+
+## Chats and channels
 
 Then, please, join some chats and channels in Telegram:
 
 -  **Chat 1** - we discuss there a job related themes
 
--  **Chat 2** \- it's channel with release news
+-  **Chat 2** - it's channel with release news
 
--  **Chat 3** \- here we discuss all themes
+-  **Chat 3** - here we discuss all themes
+
+## Expectations
 
 Here's a brief overview of what you can expect during your first few weeks at work:
 
@@ -32,3 +38,5 @@ Here's a brief overview of what you can expect during your first few weeks at wo
 We hope this information helps you better understand your and what to expect during your first few weeks at work.
 
 If you have any questions or concerns, please don't hesitate to reach out to your mentor or manager.
+
+

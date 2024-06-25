@@ -71,7 +71,7 @@ title: People
 
 *  {% colwidth=[173] %}
 
-   Liam Scott 
+   Liam Scott
 
 *  {% colwidth=[258] %}
 
@@ -83,19 +83,7 @@ title: People
 
 *  {% colwidth=[173] %}
 
-   Sophie Cooper 
-
-*  {% colwidth=[258] %}
-
-   Backend developer
-
-*  @sssopji111
-
----
-
-*  {% colwidth=[173] %}
-
-   Emma Watson 
+   Emma Watson
 
 *  {% colwidth=[258] %}
 
@@ -115,18 +103,4 @@ title: People
 
 *  @lucy1231
 
----
-
-*  {% colwidth=[173] %}
-
-   John White
-
-*  {% colwidth=[258] %}
-
-   Devops
-
-*  @black1238
-
 {% /table %}
-
-
