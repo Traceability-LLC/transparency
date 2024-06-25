@@ -104,3 +104,15 @@ title: People
 *  @lucy1231
 
 {% /table %}
+
+
+
+
+
+| First Header  | Second Header |
+
+| ------------- | ------------- |
+
+| Content Cell  | Content Cell  |
+
+| Content Cell  | Content Cell  |
